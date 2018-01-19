@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BoxCar
+comment1.params=cC\ xP\ yP
+comment1.target=BoxCar(java.awt.Color,\ int,\ int)
+comment2.params=g
+comment2.target=void\ drawCar(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ drawBox(java.awt.Graphics)
+numComments=4
