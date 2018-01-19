@@ -2,11 +2,6 @@ import java.awt.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-// Train08.java
-// Train case study, Stage #8
-// This final stage places every class in its own file.
-
-
 public class Train08
 {
     public static void main(String args[])
